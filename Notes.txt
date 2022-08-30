@@ -1,0 +1,9 @@
+How to install open cv.
+Either use :
+
+
+pip install openCV2
+
+or 
+
+pip install opencv-python   (Preferred method)
